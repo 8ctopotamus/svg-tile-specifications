@@ -4,7 +4,7 @@ Here is a [Sample SVG file](assets/sample.svg) to download and study.
 
 ## Specifications
 
-### `.svg` file extension
+### Use `.svg` file extension
 
 File must be a `.svg` file and contain vectors (no raster graphics)
 
@@ -16,9 +16,11 @@ Mine are `200x200px`, but any size should be fine as long as it's square.
 <img src="assets/dimensions.jpg" alt="Square Artboard" style="margin-bottom: 25px; width: 350px;" />
 
 ### All must be shapes must be closed
-Use closed shapes only and independant of each other; no groups.
+All shapes must be closed and independant of each other; no disconnected points and no groups.
 
 <img src="assets/one-shape-vs-multiple-lines.jpg" alt="One shape" style="margin-bottom: 25px; width: 400px;" />
+
+<img src="assets/pieces" alt="Pieces" style="margin-bottom: 25px; width: 400px;" />
 
 ### All shapes should have a white fill and 0.5px black stroke.
 
