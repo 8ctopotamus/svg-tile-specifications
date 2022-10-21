@@ -20,7 +20,7 @@ All shapes must be closed and independant of each other; no disconnected points 
 
 <img src="assets/one-shape-vs-multiple-lines.jpg" alt="One shape" style="margin-bottom: 25px; width: 400px;" />
 
-<img src="assets/pieces" alt="Pieces" style="margin-bottom: 25px; width: 400px;" />
+<img src="assets/pieces.jpg" alt="Pieces" style="margin-bottom: 25px; width: 400px;" />
 
 ### All shapes should have a white fill and 0.5px black stroke.
 
