@@ -17,9 +17,11 @@ Mine are `200x200px`, but any size should be fine as long as it's square.
 
 ### All must be shapes must be closed
 Use closed shapes only and independant of each other; no groups.
+
 <img src="assets/one-shape-vs-multiple-lines.jpg" alt="One shape" style="margin-bottom: 25px; width: 400px;" />
 
 ### All shapes should have a white fill and 0.5px black stroke.
+
 <img src="assets/white-fill-black-stroke.jpg" alt="White fill and black stroke" style="margin-bottom: 25px; width: 400px;" />
 
 ### Testing
