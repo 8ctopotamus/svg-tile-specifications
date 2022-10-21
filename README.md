@@ -15,16 +15,16 @@ Mine are `200x200px`, but any size should be fine as long as it's square.
 
 <img src="assets/dimensions.jpg" alt="Square Artboard" style="margin-bottom: 25px; width: 350px;" />
 
-### All must be shapes must be closed
+### All shapes should have a white fill and 0.5px black stroke.
+
+<img src="assets/white-fill-black-stroke.jpg" alt="White fill and black stroke" style="margin-bottom: 25px; width: 400px;" />
+
+### All shapes must be closed paths
 All shapes must be closed and independant of each other; no disconnected points and no groups.
 
 <img src="assets/one-shape-vs-multiple-lines.jpg" alt="One shape" style="margin-bottom: 25px; width: 400px;" />
 
 <img src="assets/pieces.jpg" alt="Pieces" style="margin-bottom: 25px; width: 400px;" />
-
-### All shapes should have a white fill and 0.5px black stroke.
-
-<img src="assets/white-fill-black-stroke.jpg" alt="White fill and black stroke" style="margin-bottom: 25px; width: 400px;" />
 
 ### Testing
 You can use illustrator to test that the pieces of the tile will work in the React app by giving them a fill color.
