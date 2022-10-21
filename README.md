@@ -6,7 +6,7 @@ Here is a [Sample SVG file](assets/sample.svg) to download and study.
 
 ### Use `.svg` file extension
 
-File must be a `.svg` file and contain vectors (no raster graphics)
+The file must be a `.svg` and must only contain vectors (no raster graphics like JPGs or PNGs).
 
 <img src="assets/save-as-svg.jpg" alt="Save as SVG" style="margin-bottom: 25px; width: 150px;" />
 
@@ -20,14 +20,14 @@ Mine are `200x200px`, but any size should be fine as long as it's square.
 <img src="assets/white-fill-black-stroke.jpg" alt="White fill and black stroke" style="margin-bottom: 25px; width: 400px;" />
 
 ### All shapes must be closed paths
-All shapes must be closed and independant of each other; no disconnected points and no groups.
+All shapes must be closed and independant of each other; no disconnected points and no groups. Note that if you want the entire background to change to the same color on click, it must be it's own piece.
 
 <img src="assets/one-shape-vs-multiple-lines.jpg" alt="One shape" style="margin-bottom: 25px; width: 400px;" />
 
 <img src="assets/pieces.jpg" alt="Pieces" style="margin-bottom: 25px; width: 400px;" />
 
 ### Testing
-You can use illustrator to test that the pieces of the tile will work in the React app by giving them a fill color.
+You can use illustrator to test that the pieces of the tile will work in the app by giving them a fill color.
 
 <img src="assets/testing-fills.jpg" alt="Testing fills" style="margin-bottom: 25px; width: 400px;" />
 
